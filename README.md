@@ -53,7 +53,7 @@ umount -l /etc
 mount -o remount,rw /
 ```
 
-* <a name="step_b"></a> **[Use case 2 |Step B](#step_b)** Previous steps have confirmed that you have the SSH connection from your MacOS or Windows to your RMPP device. <br>
+* <a name="step_b"></a> **[Use case 2 | Step B](#step_b)** Previous steps have confirmed that you have the SSH connection from your MacOS or Windows to your RMPP device. <br>
 The next step would be to transfer the files using the SFTP rather than Web UI, because we need to transfer without modification of the files. <br>
 At this point, depending on the OS type, there can be used many tools to transfer the files using SFTP, consult **Reference 4**. <br>
 In this manual I would be using tool called "scp" , and would be using MacOS platform. Open another **"Terminal 2"**. Navigate to the project dir. <br>

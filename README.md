@@ -10,7 +10,7 @@ References
 
 # ======== General info, objectives ====
 
-* See this video demonstration: https://github.com/user-attachments/assets/e18cf4d8-a7cd-4806-9045-0e6ba24546f1](https://www.youtube.com/watch?v=YAz8Y30VeO0
+* See this video demonstration: https://www.youtube.com/watch?v=YAz8Y30VeO0
 * The current repo has all the RM-specific files, which are required and related to the one single PDF document, the "rm_calendar.pdf" file. 
 * It's possible to transfer the PDF without the need for enabling the "Developer Mode", and "use it as it is (PDF file)" - for that see **"Use Case 1"**.
 * Because the current PDF document is a hyperlinked calendar, it's possible to extend it easily, however, in "Developer Mode" - see **"Use Case 2"**.

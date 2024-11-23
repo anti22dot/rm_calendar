@@ -115,7 +115,7 @@ and we are not touching that files, but only replacing the original PDF file.
 # ======== Tested environments ====
 ```
 * Tested combination 1 | Device: Remarkable Paper Pro, firmware: 3.15.2.1
-* Tested combination 2 | Device: Remarkable Paper Pro, firmware: 3.15.3.0 | node22.10.0_lin_arm64, sharp0.33.5
+* Tested combination 2 | Device: Remarkable Paper Pro, firmware: 3.15.3.0
 * Tested combination 3 | Device: Remarkable Paper Pro, firmware: 3.16.0.60
 ```
 

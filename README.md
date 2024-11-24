@@ -18,6 +18,7 @@ References
 * It's crucial that, if you opt-in for the **Use Case 2**, **Use Case 3**, it would be needed to enable the "Developer mode" and SSH access.
 
 # ======== Requirements, limitations, features ====
+**(LIMITATIONS)** Currently, the TODO List/planner has the calendar until the 28 February 2025. <br>
 **(FEATURE)** Each calendar page contains the calendar placed on top of the page. Each date of that calendar is hyperlinked and can be navigated to. <br>
 **(LIMITATIONS)** For the **"supported RM+versions"** refer to the "Tested environments" section of the current memo. <br>
 **(REQUIRED)** Make sure you are aware how to enable the "USB Web interface" on RMPP. Consult **Reference 3**, section "How to enable USB transfer on your reMarkable" to get to know more about it <br>

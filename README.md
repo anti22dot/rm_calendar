@@ -105,7 +105,7 @@ drwxr-xr-x    2 root     root          4096 Nov 21 20:15 430f8cdf-e2e8-412c-b7e3
 * <a name="step_d"></a> **[Use case 2 | Step D](#step_d)** Extending the "rm_calendar.pdf" with the new content. <br>
 **Use this step only if you have updated your existing PDF file, on the Windows/Mac/Linux and would like to update it on your RMPP** <br>
 **Also, make sure to only Extend the original PDF, and Not "cut" it, like do not remove existing pages, only add pages, if you need.** <br>
-Check the instructions from the **Use case 2 | Step B** , but in this case, only reupload the single file **430f8cdf-e2e8-412c-b7e3-5ebf3b126bff.pdf**
+Check the instructions from the **Use case 2 | Step B** , but in this case, only reupload the single file **430f8cdf-e2e8-412c-b7e3-5ebf3b126bff.pdf** <br>
 (do not reupload the other files or folders)
 ```
 [bash Downloads]$ scp -r 430f8cdf-e2e8-412c-b7e3-5ebf3b126bff.pdf root@<RMPP_IP_ADDRESS>:/home/root/.local/share/remarkable/xochitl/

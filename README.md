@@ -110,8 +110,7 @@ Check the instructions from the **Use case 2 | Step B** , but in this case, only
 ```
 [bash Downloads]$ scp -r 430f8cdf-e2e8-412c-b7e3-5ebf3b126bff.pdf root@<RMPP_IP_ADDRESS>:/home/root/.local/share/remarkable/xochitl/
 ```
-**NOTE**: The point is that the RMPP would store all the "strokes/markings" within the "430f8cdf-e2e8-412c-b7e3-5ebf3b126bff/" **directory itself**, <br>
-and we are not touching that files, but only replacing the original PDF file.
+**NOTE**: The point is that the RMPP would store all the "strokes/markings" within the "430f8cdf-e2e8-412c-b7e3-5ebf3b126bff/" **directory itself**, and we are not touching that files, but only replacing the original PDF file.
 
 # ======== Configuration, usage | Use case 3 | Integrate the rm_calendar with the rm_calendar_memo ====
 See this page https://github.com/anti22dot/rm_calendar_memo?tab=readme-ov-file#-configuration-usage--use-case-1--integrate-the-rm_calendar-with-the-rm_calendar_memo-

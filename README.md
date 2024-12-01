@@ -45,7 +45,7 @@ root@<RMPP_IP_ADDRESS>'s password:
 <RMPP_SSH_ROOT_PASSWORD>
 ```
 **NOTE**: For the **"ssh"** command itself make sure the "Requirements", **(Use Case 2 | REQUIRED)** sections have been reviewed. <br>
-**NOTE**: The value of <RMPP_SSH_ROOT_PASSWORD> is visible from the "General > About > Copyrights and licenses" page of the RMPP itself. <br> <br>
+**NOTE**: The value of <RMPP_SSH_ROOT_PASSWORD> is visible from the "General > About > Copyrights and licenses" page of the RMPP itself. <br>
 
 Once we have accessed the RMPP, let's also now execute this command to being able to write files into the system folders, as we would needed this later on:
 ```

@@ -36,7 +36,7 @@ Check on your RMPP, you should be able to see the new file. That's it, you can u
 # ======== Configuration, usage | **Use case 2** | **Initial uploading and extending over SSH** ====
 * <a name="step_a"></a> **[Use case 2 | Step A](#step_a)** Connect your RMPP device to your Mac/Windows via the USB C cable. After that you need to make sure the "USB web interface" is enabled. <br>
 After that, navigate to the "Settings" - "Storage" , and there would be section "USB web interface". <br>
-Locate the IP address of your RMPP, written after the "http://". Note it down somewhere in your notepad as "<RMPP_IP_ADDRESS>" <br>
+Locate the IP address of your RMPP, written after the "http://". Note it down somewhere in your notepad as "<RMPP_IP_ADDRESS>". <br>
 About "USB web interface" consult **Reference 3**. Open the terminal (let's label it **"Terminal 1"**) on your Mac or Windows and execute these commands:
 ```
 ssh root@<RMPP_IP_ADDRESS>

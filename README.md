@@ -89,7 +89,7 @@ root@<RMPP_IP_ADDRESS>'s password:
 ```
 **NOTE**: The value of <RMPP_SSH_ROOT_PASSWORD> is visible from the "General > Help > About > Copyrights and licenses" page of the RMPP itself. <br>
 
-* <a name="step_c"></a> **[Use case 2 | Step C](#step_C)** Once we have completed uploading the files, we can verify whether they have been uploaded correctly, from the "Terminal 1" <br>
+* <a name="step_c"></a> **[Use case 2 | Step C](#step_C)** Once we have completed uploading the files, we can verify whether they have been uploaded correctly, from the "Terminal 1". <br>
 ```
 root@<MY_RMPP_HOSTNAME>:~# cd /home/root/.local/share/remarkable/xochitl/
 root@<MY_RMPP_HOSTNAME>:~/.local/share/remarkable/xochitl# ls -ltra | grep 430f8cdf-e2e8-412c-b7e3-5ebf3b126bff

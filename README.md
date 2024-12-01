@@ -2,7 +2,7 @@
 General info, objectives <br>
 Requirements, limitations <br>
 Configuration, usage | Use case 1 <br>
-Configuration, usage | Use case 2 | Initial uploading and extending over SSH <br>
+Configuration, usage | Use case 2 | Initial uploading and extending over SSH. <br>
 Configuration, usage | Use case 3 | Integrate the rm_calendar with the rm_calendar_memo <br>
 • optional configurations, debugging, notes <br>
 Tested environments <br>

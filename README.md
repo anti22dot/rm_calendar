@@ -120,6 +120,7 @@ See this page https://github.com/anti22dot/rm_calendar_memo?tab=readme-ov-file#-
 * Tested combination 1 | Device: Remarkable Paper Pro, firmware: 3.15.2.1
 * Tested combination 2 | Device: Remarkable Paper Pro, firmware: 3.15.3.0
 * Tested combination 3 | Device: Remarkable Paper Pro, firmware: 3.16.0.60
+* Tested combination 4 | Device: Remarkable Paper Pro, firmware: 3.16.1.0
 ```
 
 # ======== References ========

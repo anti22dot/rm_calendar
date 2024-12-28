@@ -121,6 +121,7 @@ This use case is documented as part of the separate repository. Here is the dire
 * Tested combination 2 | Device: Remarkable Paper Pro, firmware: 3.15.3.0
 * Tested combination 3 | Device: Remarkable Paper Pro, firmware: 3.16.0.60
 * Tested combination 4 | Device: Remarkable Paper Pro, firmware: 3.16.1.0
+* Tested combination 5 | Device: Remarkable Paper Pro, firmware: 3.17.0.62
 ```
 
 # ======== References ========

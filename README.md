@@ -21,7 +21,7 @@ References
 **(LIMITATIONS)** Currently, the TODO List/planner has the calendar until the 28 February 2025. <br>
 **(FEATURE)** Each calendar page contains the calendar placed on top of the page. Each date of that calendar is hyperlinked and can be navigated to. <br>
 **(LIMITATIONS)** For the **"supported RM+versions"** refer to the "Tested environments" section of the current memo. <br>
-**(REQUIRED)** Make sure you are aware how to enable the "USB Web interface" on RMPP. Consult **Reference 3**, section "How to enable USB transfer on your reMarkable" to get to know more about it. <br>
+**(REQUIRED)** Make sure you are aware how to enable the "USB Web interface" on RMPP. Consult **Reference 3**, section `How to enable USB transfer on your reMarkable` to get to know more about it. <br>
 **(Use Case 2,3 | REQUIRED)** Know your "<RMPP_SSH_ROOT_PASSWORD>" password for SSH. Consult the **Reference 1**, section "Accessing your reMarkable Paper Pro via SSH". <br>
 **(Use Case 2,3 | REQUIRED)** "ssh" command available from the terminal. On MacOS it is available by default. For Windows consult **Reference 2**. <br>
 

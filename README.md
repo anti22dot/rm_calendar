@@ -27,7 +27,7 @@ References
 
 # ======== Configuration, usage | **Use case 1** ====
 **Unpack the current repo into some folder**. <br>
-To verify and proceed further, navigate to the "Settings" - "Storage" , and there would be section "USB connection". Make sure it's enabled (checked). <br>
+Enabling the USB connection. To verify and proceed further, navigate to the "Settings" - "Storage" , and there would be section "USB connection". Make sure it's enabled (checked). <br>
 Right after that, below, you'd see the HTTP URL, like **"http://10.11.99.1"** (it could be different for you). Note that down. <br>
 On your Windows/MacOS/Linux (depending on what you use) machine, open the browser of your preference and navigate to that address you've noted down. <br>
 You should see your RMPP file structure. There would be button "Import". Click on that and specify the "rm_todo_calendar.pdf" file. <br>

@@ -11,7 +11,10 @@ References
 # ======== General info, objectives ====
 
 * See this video demonstration: https://www.youtube.com/watch?v=YAz8Y30VeO0
-* The current repo has all the RM-specific files, which are required and related to the one single PDF document, the "rm_calendar.pdf" file. 
+* The current repo has all the RM-specific files, which are required and related to the one single PDF document, the "rm_calendar.pdf" file.
+* The current repo contains 2 PDF TODO/calendars "**rm_todo_calendar_format1.pdf**" and "**rm_todo_calendar_format2.pdf**", within the folders "**format1**", "**format2**", respectively.
+* **Format2 | Pages example**: ![rm_calendar_memo_format2_mockup_day_page](https://github.com/user-attachments/assets/71447918-4346-48dd-ad33-020e1e4425ce)
+![rm_calendar_memo_format2_mockup_week_page](https://github.com/user-attachments/assets/de6140e8-e6bb-4ee0-ad93-7b9d7c5f4867)
 * It's possible to transfer the PDF without the need for enabling the "Developer Mode", and "use it as it is (PDF file)" - for that see **"Use Case 1"**.
 * Because the current PDF document is a hyperlinked calendar, it's possible to extend it easily, however, in "Developer Mode" - see **"Use Case 2"**.
 * Also, if you would like to benefit from the **"Calendar memo app for Remarkable"** app in conjunction with the current PDF file, see **"Use Case 3"**.
